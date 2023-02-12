@@ -26,4 +26,4 @@ Maven is a great plug-in. Maven has many testing capabilities that are useful in
 
 •	Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-Project Two is an excellent example of identifying issues and resolving them. During the project, I utilized the Vulnerability Flow Chart to step through business best practices and common problems to ensure security.
+Project Two is an excellent example of identifying issues and resolving them. During the project, I utilized the Vulnerability Assessment Process Flow Chart to step through business best practices and common problems to ensure security.
